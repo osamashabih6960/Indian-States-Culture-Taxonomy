@@ -1,0 +1,2 @@
+image_path,width,height,file_readable,technical_quality_summary,G1_integrity,final_decision,rejection_or_warning_reason
+/var/folders/hl/jkfb66z9667d6bm1cl7w2ngm0000gn/T/tmpmtw6zalk/amber_fort.jpg,700,700,True,"blur:5397.11, bright:127.44",True,APPROVED,All 10 mandatory validation gates passed.

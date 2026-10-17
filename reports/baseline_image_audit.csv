@@ -1,0 +1,2 @@
+image_path,original_folder,claimed_state,claimed_category,file_readable,width,height,technical_quality_summary,visual_category_match,state_association_status,license_status,duplicate_status,initial_verdict,rejection_or_warning_reason
+/var/folders/hl/jkfb66z9667d6bm1cl7w2ngm0000gn/T/tmpmtw6zalk/amber_fort.jpg,/var/folders/hl/jkfb66z9667d6bm1cl7w2ngm0000gn/T/tmpmtw6zalk,Rajasthan,Monuments,True,700,700,"blur:5397.11, bright:127.44",True,True,True,True,APPROVED,All 10 mandatory validation gates passed.

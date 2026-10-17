@@ -1,0 +1,23 @@
+{
+  "dataset_name": "IndiaCulFair",
+  "timestamp": "2026-10-17T08:47:28.156008",
+  "target_states_count": 7,
+  "target_categories_count": 7,
+  "total_quota_target": 9800,
+  "total_images_processed": 1,
+  "total_approved": 1,
+  "total_quarantined": 0,
+  "total_rejected": 0,
+  "rejection_reasons_breakdown": {},
+  "gate_failure_counts": {
+    "G1_integrity": 0,
+    "G2_visual_match": 0,
+    "G4_state_association": 0,
+    "G5_license_permitted": 0,
+    "G6_no_exact_duplicate": 0,
+    "G7_no_near_duplicate": 0,
+    "G8_provenance_saved": 0,
+    "G9_two_pass_agreement": 0,
+    "G10_category_rules": 0
+  }
+}
